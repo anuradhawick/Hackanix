@@ -1,0 +1,9 @@
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\bin\Debug\HackanixAI.exe.config
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\bin\Debug\HackanixAI.exe
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\bin\Debug\HackanixAI.pdb
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Debug\HackanixAI.csprojResolveAssemblyReference.cache
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Debug\HackanixAI.Form1.resources
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Debug\HackanixAI.Properties.Resources.resources
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Debug\HackanixAI.csproj.GenerateResource.Cache
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Debug\HackanixAI.exe
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Debug\HackanixAI.pdb

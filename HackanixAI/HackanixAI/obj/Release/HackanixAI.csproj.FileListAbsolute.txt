@@ -1,0 +1,15 @@
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\bin\Release\HackanixAI.exe
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\bin\Release\HackanixAI.exe.config
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\bin\Release\HackanixAI.pdb
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Release\HackanixAI.csprojResolveAssemblyReference.cache
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Release\HackanixAI.Form1.resources
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Release\HackanixAI.Form2.resources
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Release\HackanixAI.Form3.resources
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Release\HackanixAI.Form4.resources
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Release\HackanixAI.Properties.Resources.resources
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Release\HackanixAI.csproj.GenerateResource.Cache
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Release\HackanixAI.exe
+C:\Users\Anuradha Sanjeewa\Desktop\HackanixAI\HackanixAI\obj\Release\HackanixAI.pdb
+D:\Hackathons\Hackanix\HackanixAI\HackanixAI\bin\Release\HackanixAI.exe.config
+D:\Hackathons\Hackanix\HackanixAI\HackanixAI\obj\Release\HackanixAI.exe
+D:\Hackathons\Hackanix\HackanixAI\HackanixAI\obj\Release\HackanixAI.pdb
